@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0d6efd"/><stop offset="1" stop-color="#084298"/></linearGradient></defs>
+<rect width="900" height="560" rx="28" fill="#eef5ff"/>
+<rect x="0" y="0" width="900" height="560" rx="28" fill="url(#g)" opacity=".12"/>
+<polygon points="450,90 165,205 450,320 735,205" fill="#0b2545"/>
+<rect x="250" y="225" width="400" height="205" fill="#fff"/>
+<rect x="285" y="260" width="60" height="170" fill="#dce8f5"/>
+<rect x="420" y="260" width="60" height="170" fill="#dce8f5"/>
+<rect x="555" y="260" width="60" height="170" fill="#dce8f5"/>
+<rect x="220" y="430" width="460" height="25" rx="8" fill="#0b2545"/>
+<text x="450" y="180" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#fff">UNICONNECT</text>
+<text x="450" y="500" text-anchor="middle" font-family="Arial" font-size="26" fill="#0b2545">Digital Student Portal</text>
+</svg>
